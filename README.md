@@ -1,4 +1,32 @@
-### Hi there 👋
+## Hi there, I'm Sebastian Rendon 👋
+
+## About me 🇨🇴
+
+## Skills
+
+### Code 
+
+#### Know
+
+  java, javascript, typescript, html, css, MySQL, Postgress
+
+#### Learning
+
+  rust, golang, lua, python
+
+### Tools
+
+#### Know
+
+  React, Nextjs, Express
+
+#### Learning
+
+  Docker, Kubernetes, Aws, Neovim
+
+## Social's
+
+  Linkedin, Github, Dev.io
 
 <!--
 **srendonsoto2123/srendonsoto2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
