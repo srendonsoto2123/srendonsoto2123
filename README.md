@@ -1,4 +1,4 @@
-## Mucho gusto, soy Sebastian Rendon 👋
+# Mucho gusto, soy Sebastian Rendon 👋
 
 ## Sobre mí 🇨🇴
 Soy un estudiante universitario en 8vo semestre que está haciendo el pregrado en la universidad del Quindío, tengo 21 años y me gusta mucho aprender sobre la industria tecnologica, me interesa mucho el desarrollo backend y el área DevOps.
