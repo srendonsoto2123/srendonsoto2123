@@ -1,7 +1,7 @@
 # Mucho gusto, soy Sebastian Rendon 👋
 
 ## Sobre mí
-Soy un estudiante universitario en el pregrado Ingeniería de Sistemas y Computación en la universidad del Quindío, tengo 21 años y me gusta mucho aprender sobre la industria tecnologica, me interesa mucho el desarrollo backend y el área DevOps.
+Soy un estudiante universitario en la Universidad del Quindío tengo 22 años y me apasiona todo lo que tiene que ver con la industria tecnologica tengo mucho interés en el área del DevOps.
 
 ![STATS](https://github-readme-stats.vercel.app/api?username=srendonsoto2123&theme=blue-green)
 
